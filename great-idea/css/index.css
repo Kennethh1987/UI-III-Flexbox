@@ -64,3 +64,125 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+.container{
+	width:900px;
+	margin:0 auto;
+
+	
+}
+header nav {
+display:flex;
+justify-content: space-around;
+margin-top: 10px;
+	
+	
+
+}
+header nav a{
+	/*TL BR*/
+	margin: 0 32px;
+	color:slategray;
+	text-decoration:none;
+	
+}
+
+
+.stubborn {
+	
+	
+}
+.text{
+display:flex;
+justify-content: space-around;
+padding:40px;
+
+
+
+}
+
+.text1 {
+	width:30%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	
+}
+button{
+	
+    white-space: nowrap;
+    padding: 5px 40px 5px 40px;
+	background: none;
+	outline: none;
+	border:1px solid black;
+	
+}
+.button{
+	
+	padding:0px 0px 60px 90px;
+
+}
+div h1{	
+	
+	font-size:80px;
+	height:50%;
+	text-align:center;
+}
+.middle {
+	width: 100%;	
+		border-top: 2px solid black;
+		display:flex;
+		justify-content: space-between;
+		padding-bottom: 30px;
+		padding
+
+}
+
+
+.middle p {
+	font-family: 'Oswald', sans-serif;
+
+}
+h4{
+	padding-top: 20px;
+}
+
+div .middle {
+}
+.topblock{
+	width:40%;
+	
+	
+
+}
+
+img .coding { 
+	padding:10px;
+	margin:0;
+	
+ 
+}
+.bottom{
+		border-bottom:2px solid black;
+		display:flex;
+}
+.bottom p {
+	font-family: 'Baskervville', serif;
+	
+}
+.inlineblock{
+
+	
+	width:33%;
+	padding:20px;
+
+}
+address{
+	padding-top: 10px;
+	
+}
+
+footer{
+	text-align:center;
+
+}
+/* services start here!*/
