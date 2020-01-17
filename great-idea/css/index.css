@@ -87,10 +87,7 @@ header nav a{
 }
 
 
-.stubborn {
-	
-	
-}
+
 .text{
 display:flex;
 justify-content: space-around;
@@ -109,8 +106,8 @@ padding:40px;
 }
 button{
 	
-    white-space: nowrap;
-    padding: 5px 40px 5px 40px;
+	white-space: nowrap;
+	padding: 5px 40px 5px 40px;
 	background: none;
 	outline: none;
 	border:1px solid black;
